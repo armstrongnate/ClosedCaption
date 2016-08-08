@@ -12,4 +12,4 @@
 If the `<video>` has a `<track>` iOS will display a chat bubble button that will allow
 the user to select a caption setting.
 
-See [video.html](../blob/master/ClosedCaption/video.html) as an example.
+See [video.html](../master/ClosedCaption/video.html) as an example.
